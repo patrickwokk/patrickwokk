@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Patrick
-- 👀 I’m interested in looking for internship
-- 🌱 I’m currently learning Big Data & Mobile programming
-- 💞️ I’m looking to collaborate on Mobile apps
+- 💼 I’m currently seeking for an internship to further develop myself
+- 🌱 I’m interested in UI/UX & Mobile programming
+- 💞️ I’m looking to collaborate on Mobile apps (preferably Flutter)
+- 🙌 I'm an avid fan of Claude Monet
 - 📫 How to reach me: patrick.k99@gmail.com
